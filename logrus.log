@@ -1,0 +1,2 @@
+{"level":"info","msg":"SERVER STOP!","time":"2023-06-07T12:37:00+03:00"}
+{"config":["server.port","waittime","penaltytime","port","server.host"],"error":"http: Server closed","function":"server.Start()","level":"fatal","msg":"Server startup error","package":"main","port":"8081","time":"2023-05-21T18:59:20+03:00"}

@@ -1,0 +1,9 @@
+port: "8081"
+
+server:
+    host: "109.254.9.58"
+    port: "8080"
+
+
+waitTime: 5
+penaltyTime: 180
